@@ -1,0 +1,35 @@
+{
+	"track1":[
+			{
+				"url":"https://www.youtube.com/watch?v=xoSRIi-SnDc",
+				"start":"00:00:00",
+				"end":"00:00:05",
+				"equalizer":"Flat"
+			},
+			{
+				"url":"https://www.youtube.com/watch?v=xoSRIi-SnDc",
+				"start":"00:00:05",
+				"end":"00:00:10",
+				"equalizer":"Flat"
+			},
+			{
+				"url":"https://www.youtube.com/watch?v=xoSRIi-SnDc",
+				"start":"00:00:10",
+				"end":"00:00:15",
+				"equalizer":"Flat"
+			},
+			{
+				"url":"https://www.youtube.com/watch?v=xoSRIi-SnDc",
+				"start":"00:00:15",
+				"end":"00:00:20",
+				"equalizer":"Flat"
+			},
+			{
+				"url":"https://www.youtube.com/watch?v=xoSRIi-SnDc",
+				"start":"00:00:20",
+				"end":"00:00:25",
+				"equalizer":"Flat"
+			}
+		]
+		
+}
